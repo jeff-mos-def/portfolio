@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Jeff Camacho's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/jeff-mos-def/portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page will contain the working portfolio of different projects that I've decided to work on.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
