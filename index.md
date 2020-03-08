@@ -2,9 +2,13 @@
 
 This page will contain the working portfolio of different projects that I've decided to work on.
 
-### Markdown
+Full portfolio will be listed [at this link](https://jeff-mos-def.github.io/portfolio/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Initial Entry
+
+The first entry will be some general formatting entries to build a site and test out different themes. 
+
+All entries will be newest first, with older entries being pushed further down.
 
 ```markdown
 Syntax highlighted code block
