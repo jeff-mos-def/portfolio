@@ -63,7 +63,7 @@ global %>%
   geom_col(alpha = 2/3) +
   theme_minimal() +
   scale_fill_manual(values = c("gray75", "red", "dodgerblue")) +
-  labs(caption = "Data source: JHU CSEE") +
+  labs(caption = "Source: Johns Hopkins University Dataset") +
   theme(axis.title.x = element_blank(),
         axis.title.y = element_blank(),
         legend.position = "bottom")
@@ -77,7 +77,7 @@ global_change %>%
   geom_col(alpha = 2/3) +
   theme_minimal() +
   scale_fill_manual(values = c("gray75", "red", "dodgerblue")) +
-  labs(caption = "Data source: JHU CSEE") +
+  labs(caption = "Source: Johns Hopkins University Dataset") +
   theme(axis.title.x = element_blank(),
         axis.title.y = element_blank(),
         legend.position = "bottom")
